@@ -151,8 +151,8 @@ src/main/resources/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/titanic-pipeline.git
-cd titanic-pipeline
+git clone https://github.com/venkataganesh-cy/SimpleETLpipeline.git
+cd SimpleETLpipeline
 ```
 
 ### 2. Create the database
@@ -232,4 +232,4 @@ Source: [kaggle.com/datasets/yasserh/titanic-dataset](https://www.kaggle.com/dat
 
 ## 👤 Author
 
-Built by [Your Name] as a hands-on data engineering learning project.
+Built by Venkata Gaensh as a hands-on data engineering learning project.
